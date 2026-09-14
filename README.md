@@ -1,10 +1,10 @@
 
 <img width="173" height="335" alt="image" src="https://github.com/user-attachments/assets/d50270be-86cb-4619-9906-625e14ae9ac0" />
-
+</br>
 <img width="557" height="223" alt="image" src="https://github.com/user-attachments/assets/aae8dfb9-8903-4f0a-a1ad-e9e3167c5d64" />
-
+</br>
 <img width="560" height="419" alt="image" src="https://github.com/user-attachments/assets/d6b4ea7e-9f8f-4be3-895a-fae15a45ad74" />
-
+</br>
 # 自动技能循环脚本
 
 基于 AHK (AutoHotkey) 编写的游戏技能自动循环脚本，通过像素颜色检测实现技能的自动释放。
